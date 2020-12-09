@@ -30,7 +30,7 @@ body {
 	line-height: 1.4;
 	font-size: 1rem;
 }
-/* global styles */
+/***************** global styles *******************/
 img {
 	width: 100%;
 	display: block;
@@ -70,3 +70,11 @@ p {
 a {
 	text-decoration: none;
 }
+
+/* more global styles */
+/************** end of global styles ********* */
+
+/************** navbar ********* */
+/************** end of navbar ********* */
+/************** hero ********* */
+/************** end of hero ********* */
