@@ -72,12 +72,12 @@ a {
 }
 
 /* more global styles */
-.btn-white {
+.btn-white{
 	text-transform: uppercase;
 	letter-spacing: var(--mainSpacing);
 	color: var(--mainWhite);
-	border: 29 solid var(--mainWhite);
-	pad: 0.9rem 1.6rem;
+	border: 2px solid var(--mainWhite);
+	padding: 0.9rem 1.6rem;
 	display: inline-block;
 	transition: var(--mainTransition);
 	cursor: pointer;
