@@ -82,6 +82,11 @@ a {
 	transition: var(--mainTransition);
 	cursor: pointer;
 }
+
+.btn-white:hover{
+    background: var(--mainWhite);
+    color: var(--primaryColour);
+}
 /************** end of global styles ********* */
 
 /************** navbar ********* */
